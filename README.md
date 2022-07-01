@@ -60,3 +60,24 @@ La Plaza será el lugar donde la creación tenga lugar, presentando las solucion
 El Protocolo RealNFT es el primer protocolo descentralizado para registrar nuestras PROPIEDADES (Auto, Celular ó Licuadora) sin la necesidad de un intermediario.
 
 > No necesitaremos más los Registros Centralizados, estamos creando el futuro.
+
+## *"La pregunta no es quién me lo va a permitir, sino quién va a detenerme"*, Ayn Rand.
+
+
+> Inspiraciones:
+Llegamos hasta acá gracias a todos, y por eso esto es para todos.   
+Esto no es nuestro, esto es de y para todos los HUMANOS.  
+@CastorPolux @ManuCo  
+
+## Quienes Somos:
+Somos unos locos que hace tiempo nos preguntamos:  
+“Si internet es la nueva imprenta, ¿Cuál es la nueva democracia?”.  
+Luego de mucho tiempo llegamos a KYRON.  
+
+## Te invitamos a sumarte en:
+- https://linktr.ee/comunidadkyron
+- Web: kyron.live
+- Twiter: @ComunidadKyron
+- Telegram: t.me/ComunidadKyron
+- Discord: https://discord.gg/TaPP2tnWBe
+
