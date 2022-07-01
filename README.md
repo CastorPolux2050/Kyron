@@ -32,7 +32,7 @@ AUDIO PITCH 1.
 - Los humanos pueden votar: Reglas, Soluciones, Protocolos y todo lo que la comunidad decida que debe ir a votación.
 - El voto se puede delegar infinitamente.
 
-
+> Una Comunidad Planetaria, con una verdadera democracia.
 
 # Economía 
 
@@ -57,4 +57,6 @@ La Plaza será el lugar donde la creación tenga lugar, presentando las solucion
 # Real NFT
 ## El primer Registro Descentralizado de la Propiedad
 
-El Protocolo RealNFT es el primer protocolo descentralizado para registrar nuestras PROPIEDADES (Auto, Celular ó Licuadora) sin la necesidad de un intermediario (Gobiernos)
+El Protocolo RealNFT es el primer protocolo descentralizado para registrar nuestras PROPIEDADES (Auto, Celular ó Licuadora) sin la necesidad de un intermediario.
+
+> No necesitaremos más los Registros Centralizados, estamos creando el futuro.
