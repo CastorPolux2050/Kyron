@@ -41,7 +41,7 @@ AUDIO PITCH 1.
 - En caso de delegación se debe establecer el porcentaje del minteado para el Representante.
 - El peso del voto variará según lo pagado al Representante (Si le pagas poco es porque no te interesa).
 
-> Ejemplo hipotetico: el Voto mina 10 KYN para este ejemplo. El máximo a Pagar será 8 KYN  (10 - 2 Fee minado = 8). 
+> Ejemplo hipotético: el Voto mina 10 KYN para este ejemplo. El máximo a Pagar será 8 KYN  (10 - 2 Fee minado = 8). 
 
 TABLA DELEGACIÓN
 
@@ -133,17 +133,16 @@ Una vez encontrada la "Solución" al problema del "Tópico" podrán presentarse 
 
 ## Concursos 
 
-Para participar de los Concursos se debe obtener la mayor cantidad de "Solicitud de siguiente nivel" entre todos los TOPICOS. Los 4 TOPICOS con más solicitudes participarán.
-En el Concurso se deberá presentar: Tópico, Problema, Solución.
+- Para participar de los Concursos se debe obtener la mayor cantidad de "Solicitud de siguiente nivel" entre todos los TOPICOS.
+- Los 4 TOPICOS con más solicitudes participarán. 
+- En el Concurso se deberá presentar: Tópico, Problema, Solución.
+ - TÓPICO: *MOVILIDAD*
+ - PROBLEMA: *Validar que una persona sabe conducir*
+ - SOLUCION: *Desarrollar un software con IA que evaluará utilizando un simulador si la persona sabe conducir.*
 
-Ejemplo:
-TÓPICO: MOVILIDAD
-PROBLEMA: Validar que una persona sabe conducir
-SOLUCION: Desarrollar un software con IA que evaluará utilizando un simulador si la persona sabe conducir.
-
-Todos los Humanos y Delegados podrán votar durante 7 días.
-El Voto será secreto hasta el cierre de la votación.
-Cada votante manteará 1 KYN mediante su acción, que solo recibirá si voto la opción ganadora, caso contrario el KYN ira a la Tesorería.
+- Todos los Humanos y Delegados podrán votar durante 7 días.
+- El Voto será secreto hasta el cierre de la votación.
+- Cada votante manteará 1 KYN mediante su acción, que solo recibirá si voto la opción ganadora, caso contrario el KYN ira a la Tesorería.
 El Ganador del concurso tendrá como premio el 100% de la recaudación del FEE de Minado de la acción de votar y acceso a INCUBADORA.
 
 > Hay mejores soluciones a los problemas del futuro con la tecnología de hoy. Debemos hacerlas.
