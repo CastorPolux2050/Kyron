@@ -76,7 +76,6 @@ Luego de mucho tiempo llegamos a KYRON.
 
 ## Te invitamos a sumarte en:
 - https://linktr.ee/comunidadkyron
-- <p>Linktr.ee <a href="https://linktr.ee/comunidadkyron">freeCodeCamp</a>.</p>
 - Web: kyron.live
 - Twiter: @ComunidadKyron
 - Telegram: t.me/ComunidadKyron
