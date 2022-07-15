@@ -70,8 +70,8 @@ Luego de mucho tiempo llegamos a KYRON.
 
 ## Te invitamos a sumarte en:
 - https://linktr.ee/comunidadkyron
-- Web: kyron.live
-- Twiter: @ComunidadKyron
-- Telegram: t.me/ComunidadKyron
+- Web: [kyron.live](https://linktr.ee/comunidadkyron)
+- Twiter: [@ComunidadKyron](https://twitter.com/ComunidadKyron)
+- Telegram: [t.me/ComunidadKyron](t.me/ComunidadKyron)
 - Discord: https://discord.gg/TaPP2tnWBe
 
