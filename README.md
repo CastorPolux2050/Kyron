@@ -54,12 +54,6 @@ La Plaza será el lugar donde la creación tenga lugar, presentando las solucion
 
 > Donde buscamos las soluciones del futuro a los problemas de hoy
 
-# Real NFT
-## El primer Registro Descentralizado de la Propiedad
-
-El Protocolo RealNFT es el primer protocolo descentralizado para registrar nuestras PROPIEDADES (Auto, Celular ó Licuadora) sin la necesidad de un intermediario.
-
-> No necesitaremos más los Registros Centralizados, estamos creando el futuro.
 
 ## *"La pregunta no es quién me lo va a permitir, sino quién va a detenerme"*, Ayn Rand.
 
