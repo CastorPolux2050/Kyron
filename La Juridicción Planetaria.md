@@ -263,7 +263,7 @@ Registro de Conducir: Si, debe haber, si bien en un par de año nadie más va a 
 ¿Y si ponemos simuladores? Simuladores de Autos, de aviones, etc. y “juegos” donde vas sumando puntos, practicando, etc. hasta que obtener suficientes “puntos” para ir a manejar a la calle. Un software que evalúe, enseñe e incorruptible gracias a la tecnología blockchain. Podremos entonces tener Reglas similares, pero no iguales. No es lo mismo manejar en la ciudad, que, en un pueblo, la montaña o en la autopista, dependiendo tu puntaje y estándar utilizado se podrá conducir en una o en muchas. Será como las ISO 9001 de este mundo, pero estandarizadas, únicas, en la blockchain con Smartcontract, descentralizadas, más económicas, incorruptibles y planetarias.
 ## Problema GENESIS
 Para que todo esto suceda debemos primero el problema GENESIS. Volvamos a ese punto inicial de la humanidad, encontremos ese problema y busquemos su nueva solución. Porque ante cada dificultad hay una oportunidad. Porque cada problema tiene más de una solución.
-Porque todos los registros, certificados, habilitaciones y servicios se entregan sobre un BIEN. Por todo esto, estamos creando el primer Registro de Propiedad Privada Descentralizado mundial.  
+
 
 ¿Te sumas?
 
