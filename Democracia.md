@@ -9,7 +9,18 @@
 > Emeplo: Hipoteticamente el Voto mina 10 KYN, El máximo a Pagar será 8 (10 - 2 Fee minado = 8).
 KYN Pagados
 
-TABLA
+
+|KYN Pagados |Peso del voto |
+|------------|--------------|
+| 1 | 12.5% |
+| 2	| 25%
+| 3	| 37.5%
+| 4	| 50%
+| 5	| 62.5%
+| 6	| 75%
+| 7	| 87.5%
+| 8	| 100%
+
 
 - Se puede delegar por Topico, Tema y Subtema.
 - Se puede delegar infinidad de veces. Quien recibe la delegación tiene la posibilidad de delegarlo en otro (y establecer el % de minado a entregar, ya sin modificar el peso del voto). Quien recibe puede volver a delegar de la misma forma.
