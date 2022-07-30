@@ -60,7 +60,7 @@ La Plaza será el lugar donde la creación tenga lugar, presentando las solucion
 > Inspiraciones:
 Llegamos hasta acá gracias a todos, y por eso esto es para todos.   
 Esto no es nuestro, esto es de y para todos los HUMANOS.  
-@CastorPolux @ManuCo  
+@CastorPolux2050 @ManuCo  
 
 ## Quienes Somos:
 Somos unos locos que hace tiempo nos preguntamos:  
