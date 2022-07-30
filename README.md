@@ -18,7 +18,7 @@ las SOLUCIONES a los problemas de vivir en comunidad.
 - Donde la humanidad sea propietario de dichas SOLUCIONES.
 
 
-AUDIO PITCH 1.
+[Pitch Intro] (https://github.com/CastorPolux2050/Kyron/blob/main/ComunidadKyron.mp3?raw=true)
 
 
 ------------
