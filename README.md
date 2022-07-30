@@ -71,6 +71,6 @@ Luego de mucho tiempo llegamos a KYRON.
 - https://linktr.ee/comunidadkyron
 - Web: [kyron.live](https://linktr.ee/comunidadkyron)
 - Twiter: [@ComunidadKyron](https://twitter.com/ComunidadKyron)
-- Telegram: [https://t.me/ComunidadKyron](t.me/ComunidadKyron)
+- Telegram: [t.me/ComunidadKyron](https://t.me/ComunidadKyron)
 - Discord: https://discord.gg/TaPP2tnWBe
 
