@@ -14,7 +14,6 @@ las SOLUCIONES a los problemas de vivir en comunidad.
 - Una DAO Gobernada por todos los Humanos registrados.
 - Con su token, llamado (KYN), el cual se minteará utilizando la Energía Humana (POP - Proof of Participation), brindando también la seguridad de ser una moneda con emisión limitada.
 - Con una democracia líquida.
-- Garantizando el Protocolo de RealNFT.
 - Con una plaza, donde se buscarán y desarrollarán las soluciones que el mundo ya creó y creará.
 - Donde la humanidad sea propietario de dichas SOLUCIONES.
 
