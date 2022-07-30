@@ -217,7 +217,7 @@ Sin dudas la Propiedad Privada es el punto de convergencia de todos los servicio
  
 ## Una Isla
 
-Para resolver los problemas de comunidad tenemos que buscar las soluciones a cada uno de los problemas, a su mínima expresión, y Para elloo debemos concebir la vida en comunidad sin un Estado presente, debemos borrar loque tenemos en nuestras cabezas y pensar desde blanco. Una Isla que comienza a ser habitada y se forma una “Comunidad”.  ¿Cómo nos vamos a organizar? En todos los aspectos relacionados a la “vida en comunidad”. Cientos de ejemplos nos saldrán: Calles, Luz, Agua, Basura, Ambiente, Seguridad, Salud, etc. ¿Por dónde empezamos?
+Para resolver los problemas de comunidad tenemos que buscar las soluciones a cada uno de los problemas, a su mínima expresión, y para ello debemos concebir la vida en comunidad sin un Estado presente, debemos borrar loque tenemos en nuestras cabezas y pensar desde blanco. Una Isla que comienza a ser habitada y se forma una “Comunidad”.  ¿Cómo nos vamos a organizar? En todos los aspectos relacionados a la “vida en comunidad”. Cientos de ejemplos nos saldrán: Calles, Luz, Agua, Basura, Ambiente, Seguridad, Salud, etc. ¿Por dónde empezamos?
 
 ## Solucionar problemas
 
