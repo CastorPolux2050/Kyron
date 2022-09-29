@@ -74,3 +74,7 @@ Luego de mucho tiempo llegamos a KYRON.
 - Telegram: [t.me/ComunidadKyron](https://t.me/ComunidadKyron)
 - Discord: https://discord.gg/TaPP2tnWBe
 
+## Conoce más:
+- [Democracia] (https://github.com/CastorPolux2050/Kyron/blob/main/Democracia.md) 
+- [La Juridicción Planetaria] (https://github.com/CastorPolux2050/Kyron/blob/main/La%20Juridicci%C3%B3n%20Planetaria.md) 
+- [Proof of Participation] (https://github.com/CastorPolux2050/Kyron/blob/main/ProofOfParticipation.md) 
